@@ -1,3 +1,5 @@
+Live Site URL: https://landing-next-page.netlify.app/
+
 ## Getting Started
 
 Install the dependencies and run the development server
